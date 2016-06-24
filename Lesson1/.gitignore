@@ -1,4 +1,8 @@
+src/client/dist
+.vscode
 .idea
+
+jsconfig.json
 
 # Logs
 logs
